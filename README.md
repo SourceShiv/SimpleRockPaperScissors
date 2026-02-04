@@ -8,7 +8,7 @@ This is one my earliest beginner projects making a basic rock paper scissors gam
 - While loops
 - Conditional logic statements
 - Random module
-- 
+
 ## Tech Stack
 - Python
 
@@ -21,5 +21,5 @@ This is one my earliest beginner projects making a basic rock paper scissors gam
 
 ```bash
 python main.py
-
+```
 Tested on Python 3.11.9
