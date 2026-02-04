@@ -1,5 +1,5 @@
 # SimpleRockPaperScissors
-This is one my earliest beginner projects making a basic rock paper scissors game.
+This is one of my beginner projects making a basic rock paper scissors game.
 
 ## Features
 - Functions
